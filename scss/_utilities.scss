@@ -1,0 +1,16 @@
+
+.h-50vh {
+    height: 50vh;
+}
+
+.max-vh-90 {
+    max-height: 90vh;
+}
+
+.pos-rel-y {
+    bottom: 3rem;
+}
+
+@mixin spacing() {
+    margin: 8em 0 3em 0;
+}
